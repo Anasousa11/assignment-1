@@ -11,9 +11,10 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
+    font-family: 'cormorant Garamona', Nunito;
 }
 header {
-    background-color: aqua;
+    background-color: #ede7db;
 }
 main {
     background-color: blue;
