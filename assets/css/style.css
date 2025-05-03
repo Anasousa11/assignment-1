@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Nunito:wght@400;600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Zeyada&display=swap');
+
 
 * {
     padding: 0;
@@ -11,7 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
-    font-family: 'cormorant Garamona', Nunito;
+    font-family: 'zeyada', lora;
 }
 header {
     background-color: #ede7db;
